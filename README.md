@@ -17,7 +17,7 @@ This will then be used not only for searching the text in O(log N) time, but als
 After converting the text into a B-Tree, I would flatten it and store it as a binary file to be read later by the program and reconstruct the original text file.  
 
 **TODO**
-+ Create basic binary tree implementation
++ ~~Create basic binary tree implementation~~
 + Convert binary tree to B-tree
 + Implement file scanning for text files
 + Have program scan text files into a B-tree
